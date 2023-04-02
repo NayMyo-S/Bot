@@ -1,5 +1,5 @@
 import sys
-import requests , re , datetime
+import requests 
 from multiprocessing.dummy import Pool
 from colorama import Fore								
 from colorama import Style								
@@ -29,8 +29,8 @@ print """
  {}!!!!!!!!
  {}     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
                 {} Script-Kiddi3s
-				{} https://www.facebook.com/BM Nay
-         {} https://www.github.com/NayMyo-S/
+		{} https://www.facebook.com/BM Nay
+                {} https://www.github.com/NayMyo-S/
 """.format(fr, fw, fg, fr, fg, fr, fg, fr, fg, fr, fw, fg, fr, fg)
 
 try:
